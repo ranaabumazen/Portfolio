@@ -1,0 +1,30 @@
+body{
+    background: #f0e6e6;
+    display:flex
+}
+h1{
+    font-family:AovelSansRounded,Geneva, Tahoma, sans-serif;
+}
+@font-face {
+    font-family: AovelSansRounded;
+    src: url(AovelSansRounded-rdDL.ttf);
+  }
+  h3{
+    margin-top: 60px;
+  }
+  div{
+    margin: 70px;
+    margin-top: 100px;
+  }
+  #contact-info{
+    background: pink;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+   font-weight: 600;
+  }
+  img{
+   width: 300px;
+   height: 300px;
+   border-radius: 150px;
+  }
